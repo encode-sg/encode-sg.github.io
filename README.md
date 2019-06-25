@@ -6,5 +6,6 @@ author: @dfangshuo
 - a for students page, meant as an explanation of what we do to students
 
 ### To Dos
+- Add form to the 'Apply' links
 - Include animation for "learn more" type of links [JavaScript]
 - Buy a domain name and change the domain name to not have github
