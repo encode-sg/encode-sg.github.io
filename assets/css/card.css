@@ -1,0 +1,40 @@
+.grid-cards {
+    margin: 0 auto;
+    width: 75%;
+}
+
+.grid-card-flat {
+  width: 350px;
+  margin: 25px 25px;
+  padding: 30px 10px 10px 10px;
+  border-width: 0px;
+}
+
+.two-card-img {
+  max-height: 11em;
+  width: auto;
+  display: block;
+  margin: auto;
+  text-align: center;
+}
+
+.grid-card-img {
+  max-height: 8.5em;
+  width: auto;
+  display: block;
+  margin: auto;
+  text-align: center;
+}
+
+.grid-card-content {
+  color: #161C24;
+  font-size: 14px;
+  font-family: 'Raleway', sans-serif;
+}
+
+
+.project-card-title {
+  font-weight: bold;
+  font-size: 20px;
+  margin-bottom: 30px;
+}

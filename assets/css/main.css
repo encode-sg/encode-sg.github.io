@@ -1,0 +1,88 @@
+body, html {
+  overflow-x: hidden;
+}
+
+body {
+  font-family: 'Raleway', sans-serif;
+  font-size: 1em;
+  text-align: center;
+}
+
+#main {
+  width: 70%;
+  margin: 0 auto;
+}
+
+.section {
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.section-subtitle {
+  color: #161C24;
+  font-weight: bold;
+  font-size: 30px;
+  font-family: 'Raleway', sans-serif;
+  margin-bottom: 12px;
+}
+
+.section-zero {
+  color: white;
+  background-color: #161C24;
+  box-shadow: inset 0px 1px 0px 0px rgba(0, 0, 0, 0.05), inset 0px 2px 3px 0px rgba(0, 0, 0, 0.1);
+}
+
+.full-width-section {
+  width: 100vw;
+  position: relative;
+  left: 50%;
+  right: 50%;
+  margin-left: -50vw;
+  margin-right: -50vw;
+} 
+
+
+.descriptor {
+  font-size: 16px;
+}
+
+.bottom-button-left {
+  font-weight: bolder;
+  font-size: 18px;
+  color: #FFFFFF;
+  background-color: #161C24;
+  border-color: #161C24;
+  border-radius: 4px;
+  padding: 8px 14px;
+  margin: 10px 1px 0px 10px;
+  transition: margin-top 250ms;
+}
+
+.bottom-button-left:hover {
+  margin-top: 4px;
+  color: rgb(241, 241, 241);
+  background-color: #29313C;
+  border-color: rgb(241, 241, 241);
+}
+
+.ps {
+  margin-top: 16px;
+  font-size: 13px;
+  color: #4F5966;
+  text-decoration: none;
+}
+
+.ps a {
+  color: #4F5966;
+  text-decoration: underline;
+}
+
+.ps a:hover {
+  color: #E9AB60;
+  text-decoration: underline;
+}
+
+#copyright {
+  color: white; 
+  margin-left: 11px;
+}

@@ -1,0 +1,46 @@
+/* navbar items */
+.nav-item {
+    font-weight: bold;
+    font-size: 14px;
+    margin-left: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    letter-spacing: 2px;
+    opacity: 0.8;
+}
+
+.nav-item:hover {
+    opacity: 1;
+}
+
+/* navbar brand */
+.navbar-brand {
+    opacity: 0.8;
+}
+  
+.navbar-brand:hover {
+    opacity: 1;
+}
+
+/* navbar */
+.encode-navbar {
+    font-family: 'Raleway', sans-serif;
+    background-color: #161C24;
+}
+
+.encode-navbar a {
+    color: white;
+}
+
+.encode-navbar .highlighted-nav-item {
+    background-color: #E9AB60;
+    border-radius: 2px;
+}
+
+.encode-navbar .highlighted-nav-item a {
+    color: #161C24;
+}
+
+.encode-navbar .navbar-toggler {
+    border-color: rgba(255,255,255,.1);
+}
