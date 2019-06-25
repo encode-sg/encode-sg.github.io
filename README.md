@@ -1,6 +1,10 @@
 # en:code website
 author: @dfangshuo
 
-Right now the website consists of :
+### Status
 - a landing page, meant as summary of what we do to clients
 - a for students page, meant as an explanation of what we do to students
+
+### To Dos
+- Include animation for "learn more" type of links [JavaScript]
+- Buy a domain name and change the domain name to not have github
