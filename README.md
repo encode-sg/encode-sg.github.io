@@ -8,4 +8,5 @@ author: @dfangshuo
 ### To Dos
 - Add form to the 'Apply' links
 - Include animation for "learn more" type of links [JavaScript]
+- Include a section what problem we are solving
 - Buy a domain name and change the domain name to not have github

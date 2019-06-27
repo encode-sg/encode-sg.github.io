@@ -10,6 +10,13 @@
   border-width: 0px;
 }
 
+.center-card {
+  width: 45vw;
+  margin: 0px;
+  padding: 0px 5px 0px 5px;
+  border-width: 0px;
+}
+
 .two-card-img {
   max-height: 11em;
   width: auto;
